@@ -1,0 +1,6 @@
+{
+  "name": "Ad Publisher Dashboard",
+  "description": "A comprehensive dashboard for managing publishers, smart links distribution, daily earnings tracking (impressions & revenue), and automatic payout calculators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
